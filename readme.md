@@ -17,6 +17,7 @@ docker pull devopsjourney1/jenkins-blueocean:2.332.3-1 && docker tag devopsjourn
 ```
 docker network create jenkins
 ```
+docker network ls
 
 ## Run the Container
 ### MacOS / Linux
